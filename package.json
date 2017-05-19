@@ -1,0 +1,27 @@
+{
+  "name": "AWS_-_GraphQL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/James-Costello/AWS_-_GraphQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/James-Costello/AWS_-_GraphQL/issues"
+  },
+  "homepage": "https://github.com/James-Costello/AWS_-_GraphQL#readme",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-graphql": "^0.6.5",
+    "graphql": "^0.9.6"
+  }
+}
